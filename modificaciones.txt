@@ -1,3 +1,5 @@
 Resumen de modificacion 
 
 objetivo: Ver la diferencia entre commits de git 
+
+Prueba 1: Agregamos parrafos al archivo (modo version 1)
