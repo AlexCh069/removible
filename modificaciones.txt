@@ -1,0 +1,3 @@
+Resumen de modificacion 
+
+objetivo: Ver la diferencia entre commits de git 
