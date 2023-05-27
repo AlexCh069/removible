@@ -6,5 +6,3 @@ Prueba 1: Agregamos parrafos al archivo (modo version 1)
 
 Prueba 2: Agregamos segundo parrafo para visualizar funcionamiento 
             de git checkout
-
-modificacion en rama master 
