@@ -8,3 +8,5 @@ Prueba 2: Agregamos segundo parrafo para visualizar funcionamiento
             de git checkout
 
 # AGREGAMOS MODIFICACIONES EN RAMA "CABECERA"
+
+modificacion en branch CABECERA
